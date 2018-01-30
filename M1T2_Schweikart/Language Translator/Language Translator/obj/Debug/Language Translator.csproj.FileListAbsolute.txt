@@ -1,0 +1,10 @@
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\obj\Debug\Language Translator.csprojResolveAssemblyReference.cache
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.Cache
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.CoreCompileInputs.cache
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+E:\CSC-153\M1T2_Schweikart\Language Translator\Language Translator\obj\Debug\Language Translator.pdb
